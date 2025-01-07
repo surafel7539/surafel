@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html LANG="en">
+    <head>
+        <meta charset="UTF-8">
+        <META name="author" content="sucha">
+        <meta name="description" content="contains everything i know">
+        <link rel="icon" href="download.jfif" type="image/x-icon" >
+        <link rel="stylesheet" href="main.css" type="text/css">
+        <title>My first html code</title>
+
+        <style>
+            html{
+                font-size: 32PX;
+                background-color: black;
+            }
+            
+            
+            body{
+               color: whitesmoke;
+               
+            }
+            </style>
+    </head>
+    <body>
+       <h1> HELLO WORLD!</h1>
+       <h2>html</h2>
+       <ol>
+       <LI>...free code <abbr title="world wide web Consortium">W3C</abbr></li>
+       <P>My first html code <em> i'm very cold</em></P></ol>
+       <h3>hello</h3>
+       <ul>
+       <li><P>&nbsp;&nbsp;&nbsp;this is a good video </P></li>
+      <!-- todo: ADD MORE PLACES-->
+       <address>
+        free code camp
+
+
+      </address>
+      <br>&lt;&lt;&lt; &copy;sucha &gt;&gt;&gt;
+    </body>
+   
+</html>
+<table>
+    <tr>
+        country
+        <td>
+            ethiopia
+        </td>
+    </tr>
+    
+</table>
+
+
+
+
+
+
+
+
+
+
